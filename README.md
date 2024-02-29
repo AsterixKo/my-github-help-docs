@@ -1,19 +1,25 @@
 ### My GitHub Help Docs & Typical commands in Git
 
-My Github help docs and typical commands in Git.
+![Git logo](/img/git-logo.svg)
 
-[SETUP](/setup/setup.md)
+My GitHub help docs and typical commands in Git.
 
-[SETUP & INIT](/setup-init/setup-init.md)
+[SETUP](/docs/setup/setup.md)
 
-[STAGE & SNAPSHOT](/stage-snapshot/stage-snapshot.md)
+[SETUP & INIT](/docs/setup-init/setup-init.md)
 
-[BRANCH & MERGE](/branch-merge/branch-merge.md)
+[STAGE & SNAPSHOT](/docs/stage-snapshot/stage-snapshot.md)
 
-[INSPECT & COMPARE](/inspect-compare/inspect-compare.md)
+[BRANCH & MERGE](/docs/branch-merge/branch-merge.md)
 
-[TRACKING PATH CHANGES](/tracking-path-changes/tracking-path-changes.md)
+[INSPECT & COMPARE](/docs/inspect-compare/inspect-compare.md)
 
-[IGNORING PATTERNS](/ignoring-patterns/ignoring-patterns.md)
+[TRACKING PATH CHANGES](/docs/tracking-path-changes/tracking-path-changes.md)
 
-[SHARE & UPDATE](/share-update/share-update.md)
+[IGNORING PATTERNS](/docs/ignoring-patterns/ignoring-patterns.md)
+
+[SHARE & UPDATE](/docs/share-update/share-update.md)
+
+[GIT ALIASES](/docs/git-aliases/git-aliases.md)
+
+[GIT TAGS](/docs/git-tags/git-tags.md)
