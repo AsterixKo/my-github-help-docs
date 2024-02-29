@@ -1,6 +1,6 @@
 ### My GitHub Help Docs & Typical commands in Git
 
-![Git logo](/img/git-logo.svg)
+<img src="https://github.com/favicon.ico" width="48">
 
 My GitHub help docs and typical commands in Git.
 
