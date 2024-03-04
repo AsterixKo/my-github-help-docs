@@ -16,6 +16,13 @@ Fetch down all the branches from that Git remote
 ---
 
 ```
+git merge [alias]/[branch]
+```
+Merge a remote branch into your current branch to bring it up to date
+
+---
+
+```
 git push [alias] [branch]
 ```
 Transmit local branch commits to the remote repository branch

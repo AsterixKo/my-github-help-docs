@@ -24,6 +24,13 @@ Switch to another branch and check it out into your working directory
 ---
 
 ```
+git merge [branch]
+```
+Merge the specified branch’s history into the current one
+
+---
+
+```
 git log
 ```
 Show all commits in the current branch’s history
