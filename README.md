@@ -20,9 +20,9 @@ My GitHub help docs and typical commands in Git.
 
 [SHARE & UPDATE](/docs/share-update/share-update.md)
 
-[REWRITE HISTORY](/docs/share-update/rewrite-history.md)
+[REWRITE HISTORY](/docs/rewrite-history/rewrite-history.md)
 
-[TEMPORARY COMMITS](/docs/share-update/temporary-commits.md)
+[TEMPORARY COMMITS](/docs/temporary-commits/temporary-commits.md)
 
 [GIT ALIASES](/docs/git-aliases/git-aliases.md)
 
