@@ -36,3 +36,26 @@ git log
 Show all commits in the current branch’s history
 
 ---
+
+```
+git branch -d localBranchName
+```
+Delete branch locally
+
+---
+
+```
+git push origin --delete remoteBranchName
+```
+Delete branch remotely. Example: `git push origin --delete fix/authentication` or `git push origin :fix/authentication`
+
+---
+
+```
+git fetch -p
+```
+**Try to synchronize your branch list using**
+
+The `-p` flag means "prune". After fetching, branches which no longer exist on the remote will be deleted.
+
+---
