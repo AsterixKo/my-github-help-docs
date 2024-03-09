@@ -27,3 +27,5 @@ My GitHub help docs and typical commands in Git.
 [GIT ALIASES](/docs/git-aliases/git-aliases.md)
 
 [GIT TAGS](/docs/git-tags/git-tags.md)
+
+[OTHER COMMANDS](/docs/other-commands/other-commands.md)
